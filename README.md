@@ -4,4 +4,4 @@ A collection of trading algorithms, expert advisors (for MT5), and notebooks tha
 ## Contents
 
 - ### Expert Advisors
-  - [My first Expert Advisor](https://github.com/jingle77/Data-Science-Portfolio/blob/main/Employee%20Salary%20Prediction/employee_salary_prediction_notebook.ipynb): An extremely simple expert advisor that opens a trade during a specified hour and closes it on another specified hour.
+  - [My first Expert Advisor](https://github.com/jingle77/Algorithmic-Trading/blob/main/Expert%20Advisors/My_First_EA.mq5): An extremely simple expert advisor that opens a trade during a specified hour and closes it on another specified hour.
